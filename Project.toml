@@ -1,0 +1,7 @@
+[workspace]
+projects = [
+  "cryo-em-densities",
+  "kabsch-benchmark",
+  "pdb-variances",
+  "pubchem",
+]
